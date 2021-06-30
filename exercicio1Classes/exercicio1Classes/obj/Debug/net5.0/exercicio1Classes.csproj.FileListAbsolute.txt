@@ -1,0 +1,15 @@
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\exerciciosClasses\exercicio1Classes\exercicio1Classes\bin\Debug\net5.0\exercicio1Classes.exe
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\exerciciosClasses\exercicio1Classes\exercicio1Classes\bin\Debug\net5.0\exercicio1Classes.deps.json
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\exerciciosClasses\exercicio1Classes\exercicio1Classes\bin\Debug\net5.0\exercicio1Classes.runtimeconfig.json
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\exerciciosClasses\exercicio1Classes\exercicio1Classes\bin\Debug\net5.0\exercicio1Classes.runtimeconfig.dev.json
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\exerciciosClasses\exercicio1Classes\exercicio1Classes\bin\Debug\net5.0\exercicio1Classes.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\exerciciosClasses\exercicio1Classes\exercicio1Classes\bin\Debug\net5.0\ref\exercicio1Classes.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\exerciciosClasses\exercicio1Classes\exercicio1Classes\bin\Debug\net5.0\exercicio1Classes.pdb
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\exerciciosClasses\exercicio1Classes\exercicio1Classes\obj\Debug\net5.0\exercicio1Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\exerciciosClasses\exercicio1Classes\exercicio1Classes\obj\Debug\net5.0\exercicio1Classes.AssemblyInfoInputs.cache
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\exerciciosClasses\exercicio1Classes\exercicio1Classes\obj\Debug\net5.0\exercicio1Classes.AssemblyInfo.cs
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\exerciciosClasses\exercicio1Classes\exercicio1Classes\obj\Debug\net5.0\exercicio1Classes.csproj.CoreCompileInputs.cache
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\exerciciosClasses\exercicio1Classes\exercicio1Classes\obj\Debug\net5.0\exercicio1Classes.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\exerciciosClasses\exercicio1Classes\exercicio1Classes\obj\Debug\net5.0\ref\exercicio1Classes.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\exerciciosClasses\exercicio1Classes\exercicio1Classes\obj\Debug\net5.0\exercicio1Classes.pdb
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\exerciciosClasses\exercicio1Classes\exercicio1Classes\obj\Debug\net5.0\exercicio1Classes.genruntimeconfig.cache
